@@ -1,5 +1,4 @@
 # Cleaning-project-in-SQL
 my first Cleaning project in SQL. this project about coronavirus layoffs
 
-I created a project that takes a data set of layoffs in many companies in the global market from the years 2020 to 2023.
-I cleaned and tidied it up
+In my data cleaning project using SQL, I worked with global market data spanning from 2020 to 2023. The project focused on removing duplicates, correcting spelling mistakes, standardizing formats, and filling in missing values. These efforts were critical to ensuring accuracy and consistency of the dataset, enhancing its reliability for comprehensive analysis.
